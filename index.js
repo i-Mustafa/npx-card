@@ -13,7 +13,7 @@ const info = {
     labelWork: chalk.gray.bold("Work:"),
     linkedin: chalk.blackBright("  https://www.linkedin.com/in/i-mustafa"),
     labelin: chalk.gray.bold("Linkedin:"),
-    card: chalk.red.bold("npx mustafa"),
+    card: chalk.red.bold("npx i-mustafa"),
     labelcard: chalk.gray.bold("Card:"),
     
 
