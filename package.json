@@ -1,12 +1,25 @@
 {
-  "name": "npx-card",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@i_mustafa/npx-card",
+  "version": "1.0.1",
+  "description": "My first npx card",
   "main": "index.js",
+  "bin": {
+    "mustafa": "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
+  "keywords": [
+    "mustafa",
+    "npx",
+    "mustafa card",
+    "card",
+    "npx-card",
+    "mustafa npx",
+    "npx mustafa",
+    "npm"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/i-Mustafa/npx-card.git"

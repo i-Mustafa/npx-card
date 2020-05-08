@@ -9,4 +9,4 @@
 
 You can use it on terminal simply type:
 
->$ npx mustafa
+>$ npx @i_mustafa/npx-card 
